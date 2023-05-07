@@ -1,5 +1,5 @@
 # sakura-icon-theme
-Sakura icon theme based on breeze and hicolor
+Sakura icon theme based on breeze and hicolor (created by [Themix GUI designer](https://github.com/themix-project/themix-gui/tree/master))
 
 ## Installation
 
