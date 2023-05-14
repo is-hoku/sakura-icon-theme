@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=sakura
-Comment=Papirus icon theme
+Comment=sakura icon theme
 Inherits=breeze,hicolor
 
 Example=folder
